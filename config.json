@@ -1,0 +1,48 @@
+[
+    {
+        "name": "black",
+        "character": "⬛",
+        "color": [0,0,0]
+    },
+    {
+        "name": "white",
+        "character": "⬜",
+        "color": [255,255,255]
+    },
+    {
+        "name": "red",
+        "character": "🟥",
+        "color": [255,0,0]
+    },
+    {
+        "name": "orange",
+        "character": "🟧",
+        "color": [255, 127, 0]
+    },
+    {
+        "name": "yellow",
+        "character": "🟨",
+        "color": [255, 255, 0]
+    },
+    {
+        "name": "green",
+        "character": "🟩",
+        "color": [0, 255, 0]
+    },
+    {
+        "name": "blue",
+        "character": "🟦",
+        "color": [0, 0, 255]
+    },
+    {
+        "name": "pink",
+        "character": "🟪",
+        "color": [255, 0, 255]
+    },
+    {
+        "name": "brown",
+        "character": "🟫",
+        "color": [135, 51, 0]
+    }
+]
+
